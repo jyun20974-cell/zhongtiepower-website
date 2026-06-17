@@ -29,8 +29,8 @@ const Hero = () => {
     title: isZh ? '驱动全球电力' : 'Powering the World',
     accent: isZh ? '的中国力量' : ' with Chinese Engineering',
     subtitle: isZh
-      ? '70 余年深耕电力设备制造，为全球 30+ 国家合作伙伴提供变压器、开关柜及铁路电气化解决方案。'
-      : 'Over 70 years of expertise. Power transformers, switchgear and railway electrification systems for 30+ countries worldwide.',
+      ? '30 余年深耕电力设备制造，为中亚、东南亚、非洲、南美、大洋洲合作伙伴提供变压器、开关柜及铁路电气化解决方案。'
+      : 'Over 30 years of expertise. Power transformers, switchgear and railway electrification systems for Central Asia, Southeast Asia, Africa, South America and Oceania.',
     gradient: 'linear-gradient(135deg, #0A1A33 0%, #0F2340 40%, #1A365D 100%)'
   };
 
@@ -78,7 +78,7 @@ const Hero = () => {
           <div className="max-w-[720px] xl:max-w-[800px]">
             <div className="inline-flex items-center gap-2.5 px-5 py-2 bg-white/10 backdrop-blur-sm border border-white/15 rounded-full mb-8 text-[13px] lg:text-[14px] xl:text-[15px] font-semibold text-white/90 tracking-wider animate-fade-in-up">
               <span className="w-2 h-2 rounded-full bg-[#D4A843]"></span>
-              {isZh ? 'CREC GROUP · 1952 年创立 · 全球电力设备制造商' : 'CREC GROUP · Est. 1952 · Global Power Equipment Manufacturer'}
+              {isZh ? '中国徐州中铁电气集团 · 1992 年创立 · 全球电力设备制造商' : 'China Xuzhou Zhongtie Power Group · Est. 1992 · Global Power Equipment Manufacturer'}
             </div>
 
             <h1 className="text-[42px] lg:text-[68px] xl:text-[80px] font-extrabold text-white leading-[1.1] tracking-tight mb-6 animate-fade-in-up" style={{ animationDelay: '0.1s' }}>
@@ -108,7 +108,7 @@ const Hero = () => {
             <div className="grid grid-cols-3 gap-6 lg:gap-10 mt-14 lg:mt-20 max-w-[600px] animate-fade-in-up" style={{ animationDelay: '0.4s' }}>
               <div className="relative">
                 <div className="text-[36px] lg:text-[52px] font-extrabold text-white leading-none">
-                  70<span className="text-[#D4A843]">+</span>
+                  30<span className="text-[#D4A843]">+</span>
                 </div>
                 <div className="text-[12px] lg:text-[14px] text-white/70 font-medium mt-3 tracking-wide">
                   {isZh ? '年制造经验' : 'Years Experience'}
@@ -116,15 +116,15 @@ const Hero = () => {
               </div>
               <div className="relative pl-6 lg:pl-10 border-l border-white/15">
                 <div className="text-[36px] lg:text-[52px] font-extrabold text-white leading-none">
-                  30<span className="text-[#D4A843]">+</span>
+                  5<span className="text-[#D4A843]"></span>
                 </div>
                 <div className="text-[12px] lg:text-[14px] text-white/70 font-medium mt-3 tracking-wide">
-                  {isZh ? '服务国家' : 'Countries Served'}
+                  {isZh ? '大洲市场' : 'Continents'}
                 </div>
               </div>
               <div className="relative pl-6 lg:pl-10 border-l border-white/15">
                 <div className="text-[36px] lg:text-[52px] font-extrabold text-white leading-none">
-                  1200<span className="text-[#D4A843]">+</span>
+                  1200
                 </div>
                 <div className="text-[12px] lg:text-[14px] text-white/70 font-medium mt-3 tracking-wide">
                   {isZh ? '专业员工' : 'Employees'}
@@ -801,19 +801,19 @@ const Testimonials = () => {
 
   const items = [
     {
-      quote: isZh ? '中铁电气为我们交付的 230kV 变电站设备质量出色，项目团队响应迅速、技术专业，是值得长期合作的伙伴。' : 'The 230kV substation equipment delivered by CREC Group is excellent. Their technical team is responsive and professional. A long-term partner we trust.',
+      quote: isZh ? '中铁电气为我们交付的 230kV 变电站设备质量出色，项目团队响应迅速、技术专业，是值得长期合作的伙伴。' : 'The 230kV substation equipment delivered by China Xuzhou Zhongtie Power Group is excellent. Their technical team is responsive and professional. A long-term partner we trust.',
       author: isZh ? '工程总监' : 'Project Director',
       company: isZh ? '某中东电力公司' : 'Middle East Power Utility',
       initials: 'ME'
     },
     {
-      quote: isZh ? '我们的高铁电气化项目对设备可靠性要求极高。中铁电气的产品在严苛工况下表现稳定，供应周期同样令人满意。' : 'Our HSR electrification project required the highest reliability. CREC equipment performed consistently under severe conditions and delivery was on schedule.',
+      quote: isZh ? '我们的高铁电气化项目对设备可靠性要求极高。中铁电气的产品在严苛工况下表现稳定，供应周期同样令人满意。' : 'Our HSR electrification project required the highest reliability. Zhongtie Power equipment performed consistently under severe conditions and delivery was on schedule.',
       author: isZh ? '首席工程师' : 'Chief Engineer',
       company: isZh ? '东南亚高速铁路公司' : 'Southeast Asian HSR Company',
       initials: 'SE'
     },
     {
-      quote: isZh ? '从设计阶段到现场调试，工程师团队的支持非常到位。我们已将其作为多个海外项目的设备供应商。' : 'From design to on-site commissioning, the engineering team was outstanding. We have selected CREC as our equipment supplier for multiple overseas projects.',
+      quote: isZh ? '从设计阶段到现场调试，工程师团队的支持非常到位。我们已将其作为多个海外项目的设备供应商。' : 'From design to on-site commissioning, the engineering team was outstanding. We have selected Zhongtie Power as our equipment supplier for multiple overseas projects.',
       author: isZh ? '采购与供应链总监' : 'Procurement Director',
       company: isZh ? '非洲国家铁路公司' : 'African National Railway',
       initials: 'AF'

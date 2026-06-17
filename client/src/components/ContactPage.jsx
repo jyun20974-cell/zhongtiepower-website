@@ -26,7 +26,7 @@ const ContactPage = () => {
   const infoCards = [
     {
       icon: PhoneOutlined, title: isZh ? '电话' : 'Phone',
-      content: '+86 18352225109', sub: isZh ? '工作日 8:30 - 18:00 (北京时间)' : 'Weekdays 8:30am - 6:00pm (GMT+8)',
+      content: '+86 15751736649', sub: isZh ? '工作日 8:30 - 18:00 (北京时间)' : 'Weekdays 8:30am - 6:00pm (GMT+8)',
       color: '#0F2340'
     },
     {
@@ -36,12 +36,12 @@ const ContactPage = () => {
     },
     {
       icon: MessageFilled, title: 'WhatsApp',
-      content: '+86 18352225109', sub: isZh ? '实时沟通，快速响应' : 'Real-time chat, quick response',
+      content: '+86 15751736649', sub: isZh ? '实时沟通，快速响应' : 'Real-time chat, quick response',
       color: '#25D366'
     },
     {
       icon: EnvironmentOutlined, title: isZh ? '总部地址' : 'Headquarters',
-      content: isZh ? '中国 · 徐州 · 高新技术产业开发区工业园' : 'Industrial Park, High-Tech Zone, Xuzhou, China',
+      content: isZh ? '中国江苏省徐州市贾汪区超越大道' : 'Chaoyue Avenue, Jiawang District, Xuzhou, Jiangsu, China',
       sub: isZh ? '欢迎预约参观工厂' : 'Factory visits by appointment',
       color: '#1A365D'
     },

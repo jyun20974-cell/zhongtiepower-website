@@ -13,11 +13,11 @@
     "quickLinks": "Quick Links",
     "productCategories": "Product Categories",
     "contactInfo": "Contact Us",
-    "copyright": "© 2026 Xuzhou Zhongtie Power Group Co., Ltd. All rights reserved.",
-    "address": "Industrial Park, High-Tech Zone, Xuzhou, China",
-    "phone": "+86 18352225109",
+    "copyright": "© 2026 China Xuzhou Zhongtie Power Group Co., Ltd. All rights reserved.",
+    "address": "Chaoyue Avenue, Jiawang District, Xuzhou, Jiangsu, China",
+    "phone": "+86 15751736649",
     "email": "jyun20974@gmail.com",
-    "whatsapp": "WhatsApp: +86 18352225109",
+    "whatsapp": "WhatsApp: +86 15751736649",
     "productList": [
       "Power Transformers",
       "Switchgear & Circuit Breakers",
@@ -30,14 +30,14 @@
   "home": {
     "heroTitle": "Powering the World with",
     "heroTitleAccent": "Reliable Engineering",
-    "heroSubtitle": "Leading manufacturer of power transformers, switchgear and railway electrification systems — trusted by partners in 30+ countries worldwide.",
+    "heroSubtitle": "Leading manufacturer of power transformers, switchgear and railway electrification systems — trusted by partners in Central Asia, Southeast Asia, Africa, South America and Oceania.",
     "viewProducts": "View Products",
     "contactUs": "Contact Us",
 
-    "companyOverviewTitle": "Why Choose Xuzhou Zhongtie Power",
-    "companyOverviewSubtitle": "70+ years of expertise in power equipment manufacturing, delivering reliable solutions worldwide.",
-    "highlight1": "70+ Years Manufacturing Since 1952",
-    "highlight2": "Products Exported to 30+ Countries Worldwide",
+    "companyOverviewTitle": "Why Choose China Xuzhou Zhongtie Power Group",
+    "companyOverviewSubtitle": "30+ years of expertise in power equipment manufacturing, delivering reliable solutions worldwide.",
+    "highlight1": "30+ Years Manufacturing Since 1992",
+    "highlight2": "Products Exported to Central Asia, Southeast Asia, Africa, South America and Oceania",
     "highlight3": "Qualified Supplier of State Grid & China Southern Power Grid",
     "highlight4": "80,000 sqm Smart Manufacturing Base",
     "learnMoreAboutUs": "Learn More About Us",
@@ -47,17 +47,17 @@
     "ourAdvantages": "Our Core Advantages",
     "advantagesSubtitle": "Six pillars that make us a trusted partner for global power infrastructure projects",
 
-    "advantage1Title": "70+ Years Manufacturing",
-    "advantage1Desc": "Accumulated deep expertise in power equipment manufacturing since 1952, continuously innovating for reliability and performance.",
-    "advantage1Data": "EST. 1952 · LEGACY EXPERTISE",
+    "advantage1Title": "30+ Years Manufacturing",
+    "advantage1Desc": "Accumulated deep expertise in power equipment manufacturing since 1992, continuously innovating for reliability and performance.",
+    "advantage1Data": "EST. 1992 · LEGACY EXPERTISE",
 
     "advantage2Title": "Global Service Network",
-    "advantage2Desc": "Exported to 30+ countries across Asia, Africa, Middle East, South America and Europe, with localized service centers.",
-    "advantage2Data": "30+ COUNTRIES · 5 REGIONAL CENTERS",
+    "advantage2Desc": "Exported to Central Asia, Southeast Asia, Africa, South America and Oceania, with localized service centers.",
+    "advantage2Data": "5 CONTINENTS · LOCAL SERVICE CENTERS",
 
     "advantage3Title": "Smart Manufacturing Capability",
     "advantage3Desc": "Automated production lines, precision testing equipment, rigorous quality control ensuring every unit meets international standards.",
-    "advantage3Data": "80,000 sqm · 1,200+ EMPLOYEES",
+    "advantage3Data": "80,000 sqm · 1,200 EMPLOYEES",
 
     "advantage4Title": "International Certifications",
     "advantage4Desc": "CE, UL, IEC 61439, ISO 9001, ISO 14001 and ISO 45001 certified — meeting all major global market requirements.",
@@ -77,8 +77,8 @@
     "viewAllProducts": "View All Products",
 
     "ourGlobalNetwork": "Global Service Network",
-    "globalDesc": "Our products have been successfully deployed in over 30 countries worldwide, with localized service and technical support.",
-    "globalStats": "30+ Countries | 5 Regional Centers | 24/7 Support",
+    "globalDesc": "Our products have been successfully deployed across Central Asia, Southeast Asia, Africa, South America and Oceania, with localized service and technical support.",
+    "globalStats": "5 Continents | Local Service Centers | 24/7 Support",
 
     "featuredProjects": "Featured Projects",
     "featuredProjectsSubtitle": "Landmark projects demonstrating our technical expertise and global reach",
@@ -87,7 +87,7 @@
     "viewAllProjects": "View All Projects",
 
     "testimonials": "Client Testimonials",
-    "testimonialsSubtitle": "What our international partners say about working with Xuzhou Zhongtie Power",
+    "testimonialsSubtitle": "What our international partners say about working with China Xuzhou Zhongtie Power Group",
 
     "readyToPower": "Ready to Power Your Project?",
     "readyDesc": "Let our experts help you find the perfect solution for your power infrastructure needs. Get a free consultation and quotation today.",

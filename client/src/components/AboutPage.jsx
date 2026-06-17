@@ -8,19 +8,19 @@ const AboutPage = () => {
   const isZh = i18n.language === 'zh';
 
   const stats = [
-    { num: '70+', label: isZh ? '年制造经验' : 'Years of Manufacturing', color: '#0F2340' },
-    { num: '30+', label: isZh ? '服务国家和地区' : 'Countries Served', color: '#C8102E' },
+    { num: '30+', label: isZh ? '年制造经验' : 'Years of Manufacturing', color: '#0F2340' },
+    { num: '5', label: isZh ? '大洲市场覆盖' : 'Continents Covered', color: '#C8102E' },
     { num: '80,000', label: isZh ? '平方米智造基地' : 'sqm Smart Factory', color: '#1A365D' },
-    { num: '1200+', label: isZh ? '专业员工' : 'Professional Staff', color: '#D4A843' },
+    { num: '1200', label: isZh ? '专业员工' : 'Professional Staff', color: '#D4A843' },
   ];
 
   const milestones = [
-    { year: '1952', title: isZh ? '公司成立' : 'Company Founded', desc: isZh ? '创立于中国，开始制造电力变压器。' : 'Founded in China, began manufacturing power transformers.' },
-    { year: '1985', title: isZh ? '进入开关设备领域' : 'Switchgear Division', desc: isZh ? '设立开关柜事业部，完善中高压产品线。' : 'Established switchgear division for complete MV/HV product line.' },
-    { year: '2001', title: isZh ? '首次出口海外' : 'First Overseas Export', desc: isZh ? '产品开始出口亚洲和非洲市场。' : 'Products exported to Asian and African markets.' },
-    { year: '2010', title: isZh ? '高铁电气化配套' : 'HSR Electrification', desc: isZh ? '成为中国高铁电气化核心设备供应商。' : 'Became a key supplier for China high-speed rail electrification.' },
+    { year: '1992', title: isZh ? '公司成立' : 'Company Founded', desc: isZh ? '创立于中国徐州，开始制造电力变压器。' : 'Founded in Xuzhou, China, began manufacturing power transformers.' },
+    { year: '2000', title: isZh ? '进入开关设备领域' : 'Switchgear Division', desc: isZh ? '设立开关柜事业部，完善中高压产品线。' : 'Established switchgear division for complete MV/HV product line.' },
+    { year: '2008', title: isZh ? '首次出口海外' : 'First Overseas Export', desc: isZh ? '产品开始出口中亚和东南亚市场。' : 'Products exported to Central Asian and Southeast Asian markets.' },
+    { year: '2015', title: isZh ? '高铁电气化配套' : 'HSR Electrification', desc: isZh ? '成为中国高铁电气化核心设备供应商。' : 'Became a key supplier for China high-speed rail electrification.' },
     { year: '2018', title: isZh ? '智能制造基地' : 'Smart Manufacturing Base', desc: isZh ? '8 万平方米智能工厂投产，自动化程度大幅提升。' : '80,000 sqm smart factory launched with high automation.' },
-    { year: '2024', title: isZh ? '全球 30+ 国市场' : '30+ Countries Worldwide', desc: isZh ? '产品和服务覆盖六大洲 30+ 国家和地区。' : 'Products and services serve 30+ countries across 6 continents.' },
+    { year: '2024', title: isZh ? '全球五大洲市场' : '5 Continents Worldwide', desc: isZh ? '产品和服务覆盖中亚、东南亚、非洲、南美、大洋洲。' : 'Products and services serve Central Asia, Southeast Asia, Africa, South America and Oceania.' },
   ];
 
   const values = [
@@ -52,8 +52,8 @@ const AboutPage = () => {
             </h1>
             <p className="text-[14.5px] lg:text-[16.5px] text-white/80 leading-[1.85] mb-8 max-w-[680px]">
               {isZh
-                ? '自 1952 年成立以来，我们专注于电力变压器、开关柜及铁路电气化系统的研发与制造。产品和服务已覆盖 30+ 国家和地区。'
-                : 'Since 1952, we have focused on the R&D and manufacturing of power transformers, switchgear and railway electrification systems, serving partners in 30+ countries worldwide.'}
+                ? '自 1992 年成立以来，我们专注于电力变压器、开关柜及铁路电气化系统的研发与制造。产品和服务已覆盖中亚、东南亚、非洲、南美、大洋洲。'
+                : 'Since 1992, we have focused on the R&D and manufacturing of power transformers, switchgear and railway electrification systems, serving partners in Central Asia, Southeast Asia, Africa, South America and Oceania.'}
             </p>
             <div className="flex flex-wrap gap-3">
               <Link to="/contact" className="inline-flex items-center gap-2 px-6 py-3.5 bg-[#C8102E] hover:bg-[#A00D25] text-white text-[14px] font-bold rounded-xl no-underline shadow-[0_10px_35px_rgba(200,16,46,0.4)] transition-all hover:translate-y-[-1px]">
@@ -91,13 +91,13 @@ const AboutPage = () => {
                 {isZh ? '公司介绍' : 'Company Profile'}
               </div>
               <h2 className="text-[28px] lg:text-[38px] font-extrabold text-[#0F2340] leading-tight tracking-tight mb-6">
-                {isZh ? '七十余年专注电力设备制造' : '70+ Years of Focused Power Equipment Manufacturing'}
+                {isZh ? '三十余年专注电力设备制造' : '30+ Years of Focused Power Equipment Manufacturing'}
               </h2>
               <div className="space-y-5 text-[14.5px] lg:text-[15.5px] text-gray-600 leading-[1.85]">
                 <p>
                   {isZh
-                    ? '我们是一家拥有 70 余年历史的电力设备制造企业，总部位于中国。经过数十年的深耕与技术积累，我们已发展成为集研发、设计、制造、销售和服务于一体的综合型电力设备解决方案提供商。'
-                    : 'We are a power equipment manufacturer with 70+ years of heritage, headquartered in China. Decades of deep technical expertise have shaped us into an integrated solution provider covering R&D, design, manufacturing, sales and service.'}
+                    ? '我们是一家拥有 30 余年历史的电力设备制造企业，总部位于中国江苏省徐州市。经过数十年的深耕与技术积累，我们已发展成为集研发、设计、制造、销售和服务于一体的综合型电力设备解决方案提供商。'
+                    : 'We are a power equipment manufacturer with 30+ years of heritage, headquartered in Xuzhou, Jiangsu, China. Decades of deep technical expertise have shaped us into an integrated solution provider covering R&D, design, manufacturing, sales and service.'}
                 </p>
                 <p>
                   {isZh
@@ -145,7 +145,7 @@ const AboutPage = () => {
               {isZh ? '从初创到全球' : 'From Startup to Global'}
             </h2>
             <p className="text-[14px] lg:text-[15px] text-gray-500 leading-[1.7] max-w-[620px] mx-auto">
-              {isZh ? '七十余年持续创新与积累，每一步都铸就今日的全球影响力。' : 'Over 70 years of continuous innovation, each step building today\'s global reach.'}
+              {isZh ? '三十余年持续创新与积累，每一步都铸就今日的全球影响力。' : 'Over 30 years of continuous innovation, each step building today\'s global reach.'}
             </p>
           </div>
 

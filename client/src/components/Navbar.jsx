@@ -46,19 +46,13 @@ const Navbar = () => {
       }`}>
         <div className="max-w-[1440px] xl:max-w-[1600px] mx-auto px-4 lg:px-10 xl:px-16">
           <div className="flex items-center justify-between h-[64px] lg:h-[72px]">
-            {/* Logo — 超窄屏只显示图标 */}
+            {/* Logo */}
             <Link to="/" className="flex items-center gap-2 shrink-0 no-underline group">
-              <div className="w-8 h-8 sm:w-9 sm:h-9 lg:w-10 lg:h-10 rounded-xl flex items-center justify-center shadow-sm transition-transform group-hover:scale-105 bg-[#0F2340]">
-                <ThunderboltOutlined style={{ fontSize: 16, color: '#D4A843' }} />
-              </div>
-              <div className="hidden sm:flex flex-col leading-tight">
-                <span className="text-[14px] lg:text-[16px] font-bold tracking-tight text-[#0F2340]">
-                  {isZh ? '徐州中铁电气' : 'Xuzhou CREC'}
-                </span>
-                <span className="hidden lg:block text-[10px] lg:text-[11px] font-medium text-gray-500" style={{ letterSpacing: '0.03em' }}>
-                  {isZh ? '铁路电气化与电力系统解决方案服务商' : 'Power Equipment & Railway Electrification'}
-                </span>
-              </div>
+              <img 
+                src="/logo.png" 
+                alt="中铁电气集团" 
+                className="h-8 sm:h-9 lg:h-10 w-auto object-contain transition-transform group-hover:scale-105"
+              />
             </Link>
 
             {/* 导航链接 — 所有屏幕尺寸都显示，超窄屏缩小字体和间距 */}

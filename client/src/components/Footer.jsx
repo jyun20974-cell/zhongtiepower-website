@@ -18,11 +18,11 @@ const Footer = () => {
       <div className="max-w-[1440px] xl:max-w-[1600px] mx-auto px-5 lg:px-10 xl:px-16">
         <div className="footer-grid">
           <div>
-            <div className="footer-brand">{isZh ? '中国徐州中铁电气集团' : 'Xuzhou CREC Group'}</div>
+            <div className="footer-brand">{isZh ? '中国徐州中铁电气集团' : 'China Xuzhou Zhongtie Power Group'}</div>
             <div className="footer-brand-sub">
               {isZh
-                ? '铁路电气化与电力系统解决方案服务商，为全球 30+ 国家客户提供高品质电力设备与工程服务。'
-                : 'Railway electrification and power system solutions provider serving partners in 30+ countries worldwide.'}
+                ? '铁路电气化与电力系统解决方案服务商，为中亚、东南亚、非洲、南美、大洋洲客户提供高品质电力设备与工程服务。'
+                : 'Railway electrification and power system solutions provider serving partners in Central Asia, Southeast Asia, Africa, South America and Oceania.'}
             </div>
             <div className="footer-socials">
               <a href="https://wa.me/8618352225109" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="WhatsApp">

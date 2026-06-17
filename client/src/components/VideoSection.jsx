@@ -24,7 +24,7 @@ const VideoSection = () => {
             <div className="order-2 lg:order-1">
               <div className="inline-flex items-center gap-2 px-3 py-1.5 bg-white rounded-full border border-gray-200 text-[11px] xl:text-[12px] font-semibold text-[#C8102E] tracking-wider uppercase mb-5 shadow-sm">
                 <span className="w-1.5 h-1.5 rounded-full bg-[#C8102E]"></span>
-                {isZh ? '关于企业' : 'About CREC Group'}
+                {isZh ? '关于企业' : 'About China Xuzhou Zhongtie Power Group'}
               </div>
 
               <h2 className="text-[28px] lg:text-[36px] xl:text-[44px] font-bold text-[#0F2340] leading-[1.2] tracking-tight mb-5">
@@ -144,7 +144,7 @@ const VideoSection = () => {
                 <div className="absolute bottom-6 left-6 right-6 flex items-end justify-between">
                   <div className="text-white">
                     <div className="text-[13px] font-medium text-white/80 mb-1">{isZh ? '中国制造 · 全球服务' : 'Made in China · Global Service'}</div>
-                    <div className="text-[20px] lg:text-[22px] font-bold tracking-tight">{isZh ? '70 年品质传承' : '70 Years of Excellence'}</div>
+                    <div className="text-[20px] lg:text-[22px] font-bold tracking-tight">{isZh ? '30 年品质传承' : '30 Years of Excellence'}</div>
                   </div>
                   <button
                     onClick={(e) => { e.stopPropagation(); setShowModal(true); }}
@@ -159,7 +159,7 @@ const VideoSection = () => {
               {/* 视频下方数据 */}
               <div className="grid grid-cols-3 gap-3 mt-5">
                 <div className="bg-white rounded-xl p-3.5 text-center shadow-sm border border-gray-100 hover:shadow-md transition-all">
-                  <div className="text-[22px] lg:text-[26px] font-bold text-[#0F2340] leading-tight">70<span className="text-[#C8102E]">+</span></div>
+                  <div className="text-[22px] lg:text-[26px] font-bold text-[#0F2340] leading-tight">30<span className="text-[#C8102E]">+</span></div>
                   <div className="text-[11.5px] lg:text-[12px] text-gray-500 font-medium mt-1">{isZh ? '年制造经验' : 'Years Mfg.'}</div>
                 </div>
                 <div className="bg-white rounded-xl p-3.5 text-center shadow-sm border border-gray-100 hover:shadow-md transition-all">
@@ -167,7 +167,7 @@ const VideoSection = () => {
                   <div className="text-[11.5px] lg:text-[12px] text-gray-500 font-medium mt-1">{isZh ? '服务国家' : 'Countries'}</div>
                 </div>
                 <div className="bg-white rounded-xl p-3.5 text-center shadow-sm border border-gray-100 hover:shadow-md transition-all">
-                  <div className="text-[22px] lg:text-[26px] font-bold text-[#0F2340] leading-tight">80K<span className="text-[#C8102E]">㎡</span></div>
+                  <div className="text-[22px] lg:text-[26px] font-bold text-[#0F2340] leading-tight">8<span className="text-[#C8102E]">万㎡</span></div>
                   <div className="text-[11.5px] lg:text-[12px] text-gray-500 font-medium mt-1">{isZh ? '生产基地' : 'Mfg. Base'}</div>
                 </div>
               </div>
@@ -217,7 +217,7 @@ const VideoSection = () => {
                 </button>
                 <div>
                   <div className="text-white text-[22px] lg:text-[28px] font-bold mb-2">{isZh ? '企业宣传片 · 完整版' : 'Company Profile · Full Version'}</div>
-                  <div className="text-white/70 text-[13px] lg:text-[14px]">{isZh ? '约 3 分钟 · 了解中铁电气的全球实力' : 'About 3 minutes · Discover the global capabilities of CREC Group'}</div>
+                  <div className="text-white/70 text-[13px] lg:text-[14px]">{isZh ? '约 3 分钟 · 了解中铁电气的全球实力' : 'About 3 minutes · Discover the global capabilities of China Xuzhou Zhongtie Power Group'}</div>
                 </div>
                 <div className="text-[13px] text-white/50 pt-3 border-t border-white/15">
                   {isZh ? '（此处将嵌入实际视频文件 / 您的宣传视频 URL）' : '(Your promotional video file will play here)'}
