@@ -1,0 +1,2 @@
+﻿      at async viteTransformMiddleware (file:///C:/Users/%E5%90%89%E9%9B%B2/AppData/Roaming/TRAE%20SOLO%20CN/ModularDat
+a/ai-agent/work-mode-projects/6a2b7bde3fe39a0d623868c8/client/node_modules/vite/dist/node/chunks/node.js:24440:20)

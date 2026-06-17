@@ -1,0 +1,96 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "projects": "Projects",
+    "downloads": "Downloads",
+    "contact": "Contact",
+    "getQuote": "Get a Quote",
+    "requestQuote": "Request Quotation"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "productCategories": "Product Categories",
+    "contactInfo": "Contact Us",
+    "copyright": "© 2026 Xuzhou Zhongtie Power Group Co., Ltd. All rights reserved.",
+    "address": "Industrial Park, High-Tech Zone, Xuzhou, China",
+    "phone": "+86 18352225109",
+    "email": "jyun20974@gmail.com",
+    "whatsapp": "WhatsApp: +86 18352225109",
+    "productList": [
+      "Power Transformers",
+      "Switchgear & Circuit Breakers",
+      "Transmission Lines",
+      "Substation Equipment",
+      "Smart Grid Solutions",
+      "Prefabricated Substations"
+    ]
+  },
+  "home": {
+    "heroTitle": "Powering the World with",
+    "heroTitleAccent": "Reliable Engineering",
+    "heroSubtitle": "Leading manufacturer of power transformers, switchgear and railway electrification systems — trusted by partners in 30+ countries worldwide.",
+    "viewProducts": "View Products",
+    "contactUs": "Contact Us",
+
+    "companyOverviewTitle": "Why Choose Xuzhou Zhongtie Power",
+    "companyOverviewSubtitle": "70+ years of expertise in power equipment manufacturing, delivering reliable solutions worldwide.",
+    "highlight1": "70+ Years Manufacturing Since 1952",
+    "highlight2": "Products Exported to 30+ Countries Worldwide",
+    "highlight3": "Qualified Supplier of State Grid & China Southern Power Grid",
+    "highlight4": "80,000 sqm Smart Manufacturing Base",
+    "learnMoreAboutUs": "Learn More About Us",
+    "videoDuration": "1 min · Company Overview",
+    "watchFullVersion": "Watch Full Version",
+
+    "ourAdvantages": "Our Core Advantages",
+    "advantagesSubtitle": "Six pillars that make us a trusted partner for global power infrastructure projects",
+
+    "advantage1Title": "70+ Years Manufacturing",
+    "advantage1Desc": "Accumulated deep expertise in power equipment manufacturing since 1952, continuously innovating for reliability and performance.",
+    "advantage1Data": "EST. 1952 · LEGACY EXPERTISE",
+
+    "advantage2Title": "Global Service Network",
+    "advantage2Desc": "Exported to 30+ countries across Asia, Africa, Middle East, South America and Europe, with localized service centers.",
+    "advantage2Data": "30+ COUNTRIES · 5 REGIONAL CENTERS",
+
+    "advantage3Title": "Smart Manufacturing Capability",
+    "advantage3Desc": "Automated production lines, precision testing equipment, rigorous quality control ensuring every unit meets international standards.",
+    "advantage3Data": "80,000 sqm · 1,200+ EMPLOYEES",
+
+    "advantage4Title": "International Certifications",
+    "advantage4Desc": "CE, UL, IEC 61439, ISO 9001, ISO 14001 and ISO 45001 certified — meeting all major global market requirements.",
+    "advantage4Data": "CE · UL · IEC · ISO CERTIFIED",
+
+    "advantage5Title": "State Grid Certified",
+    "advantage5Desc": "Long-term qualified supplier for State Grid Corporation of China and China Southern Power Grid — proven reliability at scale.",
+    "advantage5Data": "STATE GRID · CSPG QUALIFIED",
+
+    "advantage6Title": "Custom Engineering",
+    "advantage6Desc": "Dedicated engineering team providing tailored solutions from design to after-sales, adapting to your project specifications.",
+    "advantage6Data": "FULL-CYCLE ENGINEERING TEAM",
+
+    "featuredProducts": "Featured Products",
+    "featuredProductsSubtitle": "Comprehensive range covering all voltage levels for global grid standards",
+    "requestQuotation": "Request Quotation",
+    "viewAllProducts": "View All Products",
+
+    "ourGlobalNetwork": "Global Service Network",
+    "globalDesc": "Our products have been successfully deployed in over 30 countries worldwide, with localized service and technical support.",
+    "globalStats": "30+ Countries | 5 Regional Centers | 24/7 Support",
+
+    "featuredProjects": "Featured Projects",
+    "featuredProjectsSubtitle": "Landmark projects demonstrating our technical expertise and global reach",
+    "domesticTag": "Domestic",
+    "overseasTag": "Overseas",
+    "viewAllProjects": "View All Projects",
+
+    "testimonials": "Client Testimonials",
+    "testimonialsSubtitle": "What our international partners say about working with Xuzhou Zhongtie Power",
+
+    "readyToPower": "Ready to Power Your Project?",
+    "readyDesc": "Let our experts help you find the perfect solution for your power infrastructure needs. Get a free consultation and quotation today.",
+    "getFreeQuote": "Get a Free Quote"
+  }
+}

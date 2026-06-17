@@ -1,0 +1,96 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "products": "产品中心",
+    "projects": "项目案例",
+    "downloads": "资料下载",
+    "contact": "联系我们",
+    "getQuote": "获取报价",
+    "requestQuote": "立即询价"
+  },
+  "footer": {
+    "quickLinks": "快速导航",
+    "productCategories": "产品分类",
+    "contactInfo": "联系方式",
+    "copyright": "© 2026 中国徐州中铁电气集团有限公司 版权所有",
+    "address": "中国 · 徐州 · 高新技术产业开发区",
+    "phone": "+86 18352225109",
+    "email": "jyun20974@gmail.com",
+    "whatsapp": "WhatsApp: +86 18352225109",
+    "productList": [
+      "电力变压器",
+      "开关柜与断路器",
+      "输电线路",
+      "变电站设备",
+      "智能电网解决方案",
+      "预制变电站"
+    ]
+  },
+  "home": {
+    "heroTitle": "以可靠工程",
+    "heroTitleAccent": "驱动全球电力",
+    "heroSubtitle": "铁路电气化与电力系统解决方案服务商 — 产品远销 30+ 国家，服务全球合作伙伴。",
+    "viewProducts": "查看产品",
+    "contactUs": "联系我们",
+
+    "companyOverviewTitle": "为什么选择徐州中铁电气",
+    "companyOverviewSubtitle": "70 余年电力设备制造经验，为全球客户提供可靠解决方案。",
+    "highlight1": "1952 年建厂，70 余年制造经验沉淀",
+    "highlight2": "产品远销全球 30+ 国家和地区",
+    "highlight3": "国家电网、南方电网合格供应商",
+    "highlight4": "8 万平米智能制造生产基地",
+    "learnMoreAboutUs": "了解更多",
+    "videoDuration": "1 分钟 · 企业概览",
+    "watchFullVersion": "观看完整版",
+
+    "ourAdvantages": "核心优势",
+    "advantagesSubtitle": "六大核心优势，支撑全球电力基础设施项目的可靠运行",
+
+    "advantage1Title": "70 余年制造经验",
+    "advantage1Desc": "自 1952 年起深耕电力设备制造，不断创新工艺与技术，确保每一台设备的可靠性与高性能。",
+    "advantage1Data": "始创于 1952 · 传承制造",
+
+    "advantage2Title": "全球化服务网络",
+    "advantage2Desc": "产品出口至亚洲、非洲、中东、南美、欧洲 30+ 国家，在主要市场设有本地服务中心。",
+    "advantage2Data": "30+ 国家 · 5 大区域中心",
+
+    "advantage3Title": "智能制造能力",
+    "advantage3Desc": "自动化生产线、精密检测设备、严格的质量控制体系，确保每一台设备符合国际标准。",
+    "advantage3Data": "80,000 平方米 · 1,200+ 员工",
+
+    "advantage4Title": "国际认证齐全",
+    "advantage4Desc": "CE、UL、IEC 61439、ISO 9001、ISO 14001、ISO 45001 全认证，满足主要全球市场要求。",
+    "advantage4Data": "CE · UL · IEC · ISO 认证",
+
+    "advantage5Title": "国家电网合格供应商",
+    "advantage5Desc": "国家电网和南方电网的长期合格供应商，在超高压及特高压领域拥有丰富的项目经验。",
+    "advantage5Data": "国家电网 · 南方电网 认证",
+
+    "advantage6Title": "定制化工程服务",
+    "advantage6Desc": "专业工程团队提供从设计到售后的全流程定制化方案，灵活适配您的项目规格与需求。",
+    "advantage6Data": "全流程工程团队",
+
+    "featuredProducts": "精选产品",
+    "featuredProductsSubtitle": "覆盖各电压等级的全系列产品，满足全球电网标准",
+    "requestQuotation": "立即询价",
+    "viewAllProducts": "查看全部产品",
+
+    "ourGlobalNetwork": "全球服务网络",
+    "globalDesc": "产品已成功部署于全球 30+ 国家，提供本地化服务与技术支持。",
+    "globalStats": "30+ 国家 | 5 大区域服务中心 | 7 × 24 小时技术支持",
+
+    "featuredProjects": "标杆项目",
+    "featuredProjectsSubtitle": "代表我们技术实力与全球影响力的重大项目",
+    "domesticTag": "国内",
+    "overseasTag": "海外",
+    "viewAllProjects": "查看全部项目",
+
+    "testimonials": "客户评价",
+    "testimonialsSubtitle": "全球合作伙伴对徐州中铁电气的评价",
+
+    "readyToPower": "为您的项目提供电力支持？",
+    "readyDesc": "让我们的专家团队为您的电力基础设施需求提供最佳解决方案。获取免费的技术咨询与报价。",
+    "getFreeQuote": "免费获取报价"
+  }
+}
